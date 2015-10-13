@@ -1,0 +1,8 @@
+{
+	"name": "modlist",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2015, S.Percentage",
+	"authors": ["S.Percentage"],
+	"dependencies": {
+	}
+}
